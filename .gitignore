@@ -2,8 +2,8 @@
 __pycache__/
 *.py[code]
 *.so
-.idea
-README.md
+.idea/
+README.md/
 # Distribution / packaging
 .Python
 build/
