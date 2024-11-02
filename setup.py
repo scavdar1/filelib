@@ -9,4 +9,3 @@ setup(
     author_email="seymacavdar992@gmail.com",
     url="https://github.com/scavdar1/filelib.git"
 )
-
