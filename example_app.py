@@ -1,4 +1,4 @@
-from filelib import get_files
+from filelib.file_utils import get_files
 
 
 def main():
